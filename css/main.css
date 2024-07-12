@@ -1,0 +1,16 @@
+
+body{
+  max-width:1320px;
+  width: 80%;
+  margin:0 auto;
+}
+ul{
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap:20px;
+  img{
+    width: 100%;    
+  }
+}
+
